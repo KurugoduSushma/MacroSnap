@@ -54,7 +54,8 @@ Users can upload a photo of their meal or describe what they are eating. MacroSn
 ## ⚙️ Installation
 1. Clone the repository
 
-        git clone https://github.com/KurugoduSushma/MacroSnap.gitcd MacroSnap
+        git clone https://github.com/KurugoduSushma/MacroSnap.git
+        cd MacroSnap
 
 3. Create a virtual environment
 
